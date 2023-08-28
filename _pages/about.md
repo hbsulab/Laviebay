@@ -1,26 +1,64 @@
 ---
-layout: about
-title: about
+layout: about2
+title: About_us
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
+     <a href='https://hkust.edu.hk/'>Affiliations</a>. <br>
+     Theoretical and Computational Laboratory.  <br>
+     The Hong Kong University of Science and Technology, Clear Water Bay,  <br>
+     Kowloon, Hong Kong <br>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: home.jpg
+  address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+importance: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<hr>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<span style="font-size: 30px; font-weight: bold;">Wellcome to Laviebay!</span>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br>
+<br>
+
+<!-- <div style="display: flex; justify-content: center; width: 100%;">
+  <div style="position: relative; width: 500px; height: 500px; margin: auto;">
+    <img src="assets/img/bagua_gorden_blue.jpg" style="width: 100%; height: 100%;" />
+    <a href="link1" style="position: absolute; top: 0; left: 50%; transform: translate(-50%, -100%);">Hovering-zone</a>
+    <a href="link2" style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 100%);">Community</a>
+    <a href="link3" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
+    <a href="link4" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
+    <a href="link5" style="position: absolute; top: 5%; left: 5%;">Resources</a>
+    <a href="link6" style="position: absolute; bottom: 5%; left: 5%;">Tips</a>
+    <a href="link7" style="position: absolute; top: 5%; right: 5%;">Schedule</a>
+    <a href="link8" style="position: absolute; bottom: 5%; right: 5%;">Marbles</a>
+  </div>
+</div> -->
+
+<br>
+<hr>
+
+<span style="font-size: 30px; font-weight: bold;">Location and direction</span>
+
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12323.883659105839!2d114.26655066418805!3d22.336150317272825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404046bc19c7e15%3A0x2bedd58f9cf841be!2sHong%20Kong%20University%20of%20Science%20and%20Technology%20(HKUST)!5e0!3m2!1sen!2shk!4v1690275750515!5m2!1sen!2shk" width="600" height="300" style="border:0; display: block; margin: auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<br>
+<hr>
+
+<span style="font-size: 30px; font-weight: bold;">Link and Tools</span>
+
+<a href="https://engage.ust.hk/events">HKUST Upcoming Events</a> <br>
+<a href="https://pathadvisor.ust.hk/floor/Overall/at/normalized/1550,896,3">HKUST Path Finder</a> <br>
+<a href="https://hkust.edu.hk/stu_intranet/">Student Intranet</a> <br>
+
+<br>
+<hr>
+
+<span style="font-size: 30px; font-weight: bold;">News</span>

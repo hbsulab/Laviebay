@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Our projects involve biology, materials science, organic chemistry, etc., and we are exploring the application of machine learning and AI models in these fields.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [work]
 horizontal: false
 ---
 

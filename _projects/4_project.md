@@ -1,80 +1,50 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Drug Design
+description: Explore Potential Inhibitors for Proteins
+img: assets/img/drug_design_project/CADD.jpg
 importance: 3
-category: fun
+category: work
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<h4 style="text-align: left;"><strong>Molecular Docking</strong></h4>
+<hr>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-7">
+        Molecular docking is a computer technique that simulates the interaction process between small molecule drugs and biological macromolecules (such as proteins). This process mainly considers the shape and charge matching of the binding pocket between the drug molecule and the target protein, and predicts the optimal position and posture of the drug molecule in the binding pocket by optimizing the energy score function.  <br>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/drug_design_project/docking.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+<br>
+
+
+<h4 style="text-align: left;"><strong>Free Energy Calculation</strong></h4>
+<hr>
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-7 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/drug_design_project/FEP.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-lg-5">
+        In protein-ligand systems, alchemical methods are often used to model the progression of ligands from the dissociated state to the bound state. In this case, the alchemical method uses <strong> Lagrange multipliers (λ) </strong> to adjust the potential energy function of the ligand, thus simulating a "smooth" transition between the dissociated and bound states of the ligand. Different λ values correspond to different ligand states, ranging from complete dissociation (λ=0) to complete binding (λ=1).
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<br>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The Binding Free Energy can be calculated using <strong> Thermodynamic Integration (TI) </strong> or <strong> Free Energy Perturbation (FEP) </strong>. Both methods are based on the principles of thermodynamics, but differ in practice. In thermodynamic integration, the derivative of the mean potential energy of the system at each λ value is integrated to calculate the binding free energy. The advantage of this method is that the results are accurate, but it is computationally expensive because all lambda values need to be integrated. The FEP is calculated by comparing the energies of the system at adjacent λ values. The FEP method generally requires fewer sampling times than the TI method, but may be more sensitive to the choice of λ values.<br>
 
+Overall, enhanced sampling (alchemical method), TI, and FEP are powerful tools for computational chemistry that can be used to predict the free energy of protein-ligand binding, thereby helping to understand the nature of molecular interactions and design new drug molecules.<br>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+$$
+\Delta{G_{b}^o} = -\Delta{G_{elec+vdW+restr}^{prot}} + \Delta{G_{elec+vdW}^{solv}} + \Delta{G_{restr}^{solv}}
+$$
+
+{% include figure.html path="assets/img/drug_design_project/FEP_result.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<br>
