@@ -31,9 +31,9 @@ importance: 1
     <img src="assets/img/bagua_gorden_blue.jpg" style="width: 100%; height: 100%;" />
     <a href="assets/pdf/Handbook_v1.1.pptx" style="position: absolute; top: 0; left: 50%; transform: translate(-50%, -100%);">Hovering-zone</a>
     <a href="link2" style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 100%);">Community</a>
-    <a href="link3" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
-    <a href="link4" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
-    <a href="link5" style="position: absolute; top: 5%; left: 5%;">Resources</a>
+    <a href="https://haibinsu.github.io/Laviebay/blog/" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
+    <a href="https://haibinsu.github.io/Laviebay/Courses/" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
+    <a href="https://haibinsu.github.io/Laviebay/Computers/" style="position: absolute; top: 5%; left: 5%;">Resources</a>
     <a href="link6" style="position: absolute; bottom: 5%; left: 5%;">Tips</a>
     <a href="link7" style="position: absolute; top: 5%; right: 5%;">Schedule</a>
     <a href="link8" style="position: absolute; bottom: 5%; right: 5%;">Marbles</a>
