@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haibinsu.github.io/Laviebay/sitemap.xml
+Sitemap: https://haibinsu.github.io/Laviebay//sitemap.xml
