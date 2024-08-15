@@ -32,7 +32,7 @@ importance: 11
                 <br>Yizhou WANG, 2023
                 <br>Yuzhou TAO, 2023
                 <br>Yingtong ZHU, 2023
-                <br>Zhiyan (Gerry) Zhou, 2023
+                <br>Zhiyan (Gerry) ZOU, 2023
                 </p>
             </li>
             <li><b>UG Students</b>: 
@@ -42,7 +42,6 @@ importance: 11
                 <br>Tai Ho (Gideon) MA
                 <br>Chun Hey Siu
                 <br>Changwen (Leo) Li
-                <br>Zhiyan (Gerry) ZOU
                 <br>Yuen Hon (Jack) Ng
                 </p>
             </li>
