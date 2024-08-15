@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /Courses/
-description:  
+description: <big> Here are some courses related to our research topic. We have the introduction for enrollment.</big>
 nav: true
 nav_order: 1
 horizontal: false
