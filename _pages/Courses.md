@@ -3,7 +3,7 @@ layout: page
 title: Courses
 permalink: /Courses/
 description:  
-nav: false
+nav: true
 nav_order: 1
 horizontal: false
 ---

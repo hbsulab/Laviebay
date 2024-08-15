@@ -3,7 +3,7 @@ layout: page
 title: Computers
 permalink: /Computers/
 description: <big>Our computational resources enable us to perform many different types of large-scale computational tasks, such as <strong><u>AI machine learning training tasks</u>, <u>molecular dynamics simulations</u>, <u>density functional theorycalculations</u></strong>, and so on.</big>
-nav: false
+nav: true
 nav_order: 1
 horizontal: false
 ---
