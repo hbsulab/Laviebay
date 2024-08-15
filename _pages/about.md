@@ -34,7 +34,7 @@ importance: 1
     <a href="blog/" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
     <a href="Courses/" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
     <a href="Computers/" style="position: absolute; top: 5%; left: 5%;">Computers</a>
-    <a href="link6" style="position: absolute; bottom: 5%; left: 5%;">Tips</a>
+    <a href="Tips/" style="position: absolute; bottom: 5%; left: 5%;">Tips</a>
     <a href="Schedule/" style="position: absolute; top: 5%; right: 5%;">Schedule</a>
     <a href="link8" style="position: absolute; bottom: 5%; right: 5%;">Marbles</a>
   </div>
