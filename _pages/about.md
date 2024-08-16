@@ -30,7 +30,7 @@ importance: 1
   <div style="position: relative; width: 500px; height: 500px; margin: auto;">
     <img src="assets/img/bagua_gorden_blue.jpg" style="width: 100%; height: 100%;" />
     <a href="assets/pdf/Handbook_v1.1.pptx" style="position: absolute; top: 0; left: 62%; transform: translate(-50%, -100%);">Handbook<img src="assets/img/download_icon.png" style="width: 10%; height: 10%;" /></a> 
-    <a href="link2" style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 100%);">Community</a>
+    <a href="Communities/" style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 100%);">Community</a>
     <a href="VisitingOpportunity/" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
     <a href="Courses/" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
     <a href="Computers/" style="position: absolute; top: 5%; left: 5%;">Resources</a>
