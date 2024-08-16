@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Visiting Opportunity
-permalink: /Visiting Opportunity/
+title: UG/PG/Visitors
+permalink: /VisitingOpportunity/
 description:  
-nav: false
-nav_order: 1
+nav: true
+nav_order: 4
 horizontal: false
 ---
 

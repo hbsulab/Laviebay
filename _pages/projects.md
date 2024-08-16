@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: <big>Our projects involve biology, materials science, organic chemistry, etc., and we are exploring the application of machine learning and AI models in these fields.</big>
-nav: true
+nav: false
 nav_order: 1
 display_categories: [work]
 horizontal: false

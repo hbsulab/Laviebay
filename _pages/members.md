@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lab/
+permalink: /members/
 title: Members
 description:   
 nav: true

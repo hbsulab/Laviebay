@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Resources
-nav: false
-nav_order: 2
+nav: true
+nav_order: 1
 dropdown: true
-children: 
+children:
+    - title: Lab
+      permalink: /Lab/
+    - title: divider
     - title: Computers
       permalink: /Computers/
-    # - title: divider
-    # - title: Software
-    #   permalink: /Software/
     - title: divider
-    - title: Courses
-      permalink: /Courses/
+    - title: Software
+      permalink: /Software/
+    - title: divider
+    - title: Compilations
+      permalink: /Compilations/
 ---
