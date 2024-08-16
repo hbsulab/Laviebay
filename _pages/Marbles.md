@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Marbles
+permalink: /Marbles/
 nav: true
 nav_order: 3
 dropdown: true
