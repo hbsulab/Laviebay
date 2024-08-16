@@ -45,6 +45,7 @@
             {% include social.html %}
           </div>
           {% endif %}
+          
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -62,7 +63,7 @@
                 {% endif %}
               {% endfor %}
 
-              <!-- About -->
+              <!-- About
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
@@ -70,7 +71,7 @@
                   {%- endif -%}
                 </a>
               </li>
-              <!--
+              
               {% if site.blog_nav_title %}
                Blog 
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
