@@ -13,13 +13,13 @@ horizontal: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/hardwares/HPC2.png" title="HPC2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/hardwares/HPC3.png" title="HPC3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/hardwares/HPC4.png" title="HPC4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
