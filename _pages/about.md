@@ -3,7 +3,7 @@ layout: about2
 title: About us
 permalink: /
 description: >
-     <a href='https://hkust.edu.hk/'>Affiliations</a>. <br>
+     <a href='https://hkust.edu.hk/'>HKUST official site</a>. <br>
      Theoretical and Computational Laboratory.  <br>
      The Hong Kong University of Science and Technology, Clear Water Bay,  <br>
      Kowloon, Hong Kong <br>
