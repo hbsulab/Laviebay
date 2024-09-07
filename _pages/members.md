@@ -7,8 +7,12 @@ nav: true
 importance: 11
 ---
 
-
-
+<div>
+    <span style="font-family:Times, serif;font-style:italic;font-size:27px;color:purple;">No member of the community shall take unfair advantage of any other member of the community.</span>
+    <br>
+    <span style="font-family:Times, serif;font-style:italic;font-size:27px;color:purple;float:right;">—— Honor Code</span>
+</div>
+<br>
 <div>
 <span style="font-size: 24px; font-weight: bold;">Current Members:</span>
         <ul>
