@@ -33,7 +33,7 @@ importance: 1
     <a href="Communities/" style="position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 100%);">Community</a>
     <a href="VisitingOpportunity/" style="position: absolute; top: 50%; left: 0; transform: translate(-100%, -50%);">Forum</a>
     <a href="Courses/" style="position: absolute; top: 50%; right: 0;transform: translate(100%, -50%);">Courses</a>
-    <a href="Computers/" style="position: absolute; top: 5%; left: 5%;">Resources</a>
+    <a href="Resources/" style="position: absolute; top: 5%; left: 5%;">Resources</a>
     <a href="Tips/" style="position: absolute; bottom: 5%; left: 5%;">Tips</a>
     <a href="Schedule/" style="position: absolute; top: 5%; right: 5%;">Schedule</a>
     <a href="Marbles/" style="position: absolute; bottom: 5%; right: 5%;">Marbles</a>
