@@ -39,7 +39,7 @@ children:
         <img src="../assets/img/hardwares/HPC4.png" style="width:30%;float:right"/>
     </div>
     <div style="border-style:solid;text-align:center;box-shadow:0 0 5px #000000;float:left;width:500px;transform:translate(0px,10px);">
-        <a href="../Computers/" style="font-size:24px;">Complilations</a>  <br>
+        <a href="../Compilations/" style="font-size:24px;">Compilations</a>  <br>
         
     </div>
 </div>

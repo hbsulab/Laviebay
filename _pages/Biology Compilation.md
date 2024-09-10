@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biology compilation
-permalink: /biology/
+permalink: /biology_compilation/
 description:
 ---
 <!--This page is a direct copy of original html file-->
