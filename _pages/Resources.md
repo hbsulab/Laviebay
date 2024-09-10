@@ -22,7 +22,7 @@ children:
       permalink: /Compilations/
 ---
 
-<div style="height:650px;">
+<div style="height:550px;">
     <div style="border-style:solid;text-align:center;box-shadow:0 0 5px #000000;">
         <a href="../Lab/" style="font-size:24px;">Laboratory arrangement</a> 
     </div>
@@ -34,12 +34,12 @@ children:
     </div>
     <div style="border-style:solid;text-align:center;box-shadow:0 0 5px #000000;float:left;width:500px;">
         <a href="../Computers/" style="font-size:24px;">CPU & GPU Computing Resources</a>  <br>
-        <img src="../assets/img/hardwares/HPC2.png" style="width:30%;float:left"/>
-        <img src="../assets/img/hardwares/HPC3.png" style="width:30%;"/>
-        <img src="../assets/img/hardwares/HPC4.png" style="width:30%;float:right"/>
+        <img src="../assets/img/hardwares/HPC2.png" style="width:30%;float:left;padding:5px;"/>
+        <img src="../assets/img/hardwares/HPC3.png" style="width:30%;padding:5px;"/>
+        <img src="../assets/img/hardwares/HPC4.png" style="width:30%;float:right;padding:5px;"/>
     </div>
-    <div style="border-style:solid;text-align:center;box-shadow:0 0 5px #000000;float:left;width:500px;transform:translate(0px,10px);">
+    <div style="border-style:solid;text-align:center;box-shadow:0 0 5px #000000;float:left;width:500px;transform:translate(0px,7px);">
         <a href="../Compilations/" style="font-size:24px;">Compilations</a>  <br>
-        
+        <img src="../assets/img/compilation.png" style="width:40%;"/>
     </div>
 </div>
