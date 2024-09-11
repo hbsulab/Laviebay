@@ -14,11 +14,15 @@ In the **Terminal** of the codespace, **RUN**
 ```
 bundle exec jekyll serve --lsi
 ```
-You can also find this command in the [config file](./config.yml)
+You can also find this command in the [config file](./_config.yml).
 
 (If you create a new codespace, you need to run `install bundle` in the terminal first.)
 
 After the local website is established, you can find the url link at the **PORTS** tab. This local website will response to your edition immediately, refresh for preview.
+#### Edit pages
+We take HTML and JavaScript as the major languages for our website. You can get basic tutorial [here](https://www.w3schools.com/html/).
+
+Directly add HTML and JavaScript codes into the markdown files(.md) in the [pages folder](./_pages/)
 
 #### Save and Commit your edition
 If you want to save and commit your work, head to the **Source Control** tab at the left navigation bar. By pressing **Commit** and following the instruction, you can save and commit your results. 
