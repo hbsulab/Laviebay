@@ -8,7 +8,7 @@ horizontal: false
 ---
 <hr>
 <div class="row">
-    <a href="../Policy/" style="font-size:12px;">Laboratary Computers Using Policies</a>
+    <a href="../Policy/" style="font-size:12px;">Laboratory Computers Using Policies</a>
 <div>
 <hr>
 
