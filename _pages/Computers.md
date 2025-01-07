@@ -4,9 +4,13 @@ title: Computers
 permalink: /Computers/
 description: <big>Our computational resources enable us to perform many different types of large-scale computational tasks, such as <strong><u>AI machine learning training tasks</u>, <u>molecular dynamics simulations</u>, <u>density functional theorycalculations</u></strong>, and so on.</big>
 nav: false
-nav_order: 1
 horizontal: false
 ---
+<hr>
+<div class="row">
+    <a href="../Policy/" style="font-size:12px;">Laboratary Computers Using Policies</a>
+<div>
+<hr>
 
 <h4 style="text-align: left;"><strong>HKUST HPC3</strong></h4>
 <hr>
@@ -86,6 +90,24 @@ horizontal: false
     <div class="col-lg-9 mt-3 mt-md-0">
         {% include figure.html path="assets/img/hardwares/RTX3090.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<br>
+
+<h4 style="text-align: left;"><strong>Series Planet: Venus, Mercury, Jupiter, Mars</strong></h4>
+<hr>
+
+<div class="row">
+    <div class="col-lg-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hardwares/RTX4090.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-lg-6">
+        <strong>CPU</strong>: 2 x AMD EPYC 7282 16-core Processor<br>
+        <strong>RAM</strong>: Kingston DDR4, Total 128 GB <br>
+        <strong>GPU</strong>: 4 x NVIDIA RTX-4090, Total 24576 MiB<br>
+        <strong>Hard Drive</strong>: ST4000DM004-2CV104, 4TB
+    </div>
+    
 </div>
 
 <br>
