@@ -4,28 +4,29 @@ layout: default
 
 <div class="post">
 
-
   <article>
     <div class="row">
-        <div class="col-sm-5">
-            {% if page.profile.image %}
-            <img style="width: 300px" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-            {% endif %}
-        </div>
-    
-        <div class="col-sm-7">
-            <h1 class="post-title">
-            {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
-            </h1>
-            <p class="desc">{{ page.description }}</p>
-            <!-- <div class="social">
+      <div class="col-sm-5">
+        {% if page.profile.image %}
+        <img style="width: 300px" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        {% endif %}
+      </div>
+
+      <div class="col-sm-7">
+        <h1 class="post-title">
+          {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name
+          }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+        </h1>
+        <p class="desc">{{ page.description }}</p>
+        <!-- <div class="social">
                 <div class="contact-icons">
                 {% include social.html %}
                 </div>
             </div> -->
-   
-        </div>
+
+      </div>
     </div>
+    
     
     <div class="clearfix" style="margin-top: 50px; margin-bottom: 50px;">
       {{ content }}
@@ -33,11 +34,11 @@ layout: default
 
 
     {% if page.news %}
-      {% include news.html %}
+    {% include news.html %}
     {% endif %}
 
     {% if page.selected_papers %}
-      {% include selected_papers.html %}
+    {% include selected_papers.html %}
     {% endif %}
 
     {% if page.social %}

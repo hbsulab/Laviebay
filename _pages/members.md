@@ -12,6 +12,21 @@ importance: 11
     <br>
     <span style="font-family:Times, serif;font-style:italic;font-size:27px;color:purple;float:right;">—— Honor Code</span>
 </div>
+
+<br>
+<br>
+
+<div>
+    <div style="width:770px;text-align:center;">
+        <span style="font-weight:bold; color:blue;font-size:45px;">The Orgnization</span>
+    </div>
+    <div style="border-style:solid;width:770px;color:purple">
+        <span style="font-size:27px;margin-left:100px;">Convenor</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Muhammad Hasan</span><br>
+        <span style="font-size:27px;margin-left:100px;">Secretary General</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Kaicheng ZHU</span><br>
+        <span style="font-size:27px;margin-left:100px;">Secretary</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Shinhong CHEN</span><br>
+        <span style="font-size:27px;margin-left:100px;">IT Manager <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Ruichen LI</span></span> 
+    </div>
+</div>
 <br>
 <div>
 <span style="font-size: 24px; font-weight: bold;">Current Members:</span>
