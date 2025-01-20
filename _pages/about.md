@@ -19,6 +19,10 @@ social: true  # includes social icons at the bottom of the page
 importance: 1
 ---
 
+<hr>
+
+<span style="font-size: 30px; font-weight: bold;">Wellcome to Laviebay!</span>
+
 <div style="background-image:url(assets/img/HKUST_Impression.png);background-repeat:no-repeat;background-size:100% 100%;">
   <h1  style="font-size:72px; text-align:center;">
     <span style="font-size:72px;letter-spacing:0.1em;font-family:Charm,cursive;text-shadow:rgba(0, 0, 0, 0.298039) 0px 5px 0px;font-style:normal;" >
@@ -33,10 +37,6 @@ importance: 1
   </h1>
 
 </div>
-
-<hr>
-
-<span style="font-size: 30px; font-weight: bold;">Wellcome to Laviebay!</span>
 
 <br>
 <br>
