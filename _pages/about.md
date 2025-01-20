@@ -12,27 +12,28 @@ profile:
   align: right
   image: home.jpg
   address: 
-
-news: true  # includes a list of news items
+     
+title: false # show title on page   
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
 
-<hr>
-
 <span style="font-size: 30px; font-weight: bold;">Wellcome to Laviebay!</span>
-
-<div style="background-image:url(assets/img/HKUST_Impression.png);background-repeat:no-repeat;background-size:100% 100%;">
-  <h1  style="font-size:72px; text-align:center;">
+<div>
+  <img src="assets/img/HKUST_Impression.png" style="width: 100%;" />
+</div>
+<div>
+  <h1 style="font-size:72px; text-align:center;">
     <span style="font-size:72px;letter-spacing:0.1em;font-family:Charm,cursive;text-shadow:rgba(0, 0, 0, 0.298039) 0px 5px 0px;font-style:normal;" >
-      <span style="color:white;font-weight:bold;"> GATEWAY to FANTASYLAND </span>   
+      <span style="font-weight:bold;"> GATEWAY to FANTASYLAND </span>   
     </span>
   </h1>
 
   <h1 style="font-size:54px; text-align:center;">
     <span style="font-size:54px;letter-spacing:0.1em;font-family:Charm,cursive;text-shadow:rgba(0, 0, 0, 0.298039) 0px 5px 0px;font-style:normal;">
-      <span style="color:white;"> where wisdom flourishes </span>
+      <span> where wisdom flourishes </span>
     </span>
   </h1>
 
@@ -58,15 +59,6 @@ importance: 1
 <br>
 <hr>
 
-<span style="font-size: 30px; font-weight: bold;">Location and direction</span>
-
-<br>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12323.883659105839!2d114.26655066418805!3d22.336150317272825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404046bc19c7e15%3A0x2bedd58f9cf841be!2sHong%20Kong%20University%20of%20Science%20and%20Technology%20(HKUST)!5e0!3m2!1sen!2shk!4v1690275750515!5m2!1sen!2shk" width="600" height="300" style="border:0; display: block; margin: auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<br>
-<hr>
-
 <span style="font-size: 30px; font-weight: bold;">Link and Tools</span>
 
 <a href="https://engage.ust.hk/events">HKUST Upcoming Events</a> <br>
@@ -76,4 +68,29 @@ importance: 1
 <br>
 <hr>
 
-<span style="font-size: 30px; font-weight: bold;">News</span>
+<span style="font-size: 30px; font-weight: bold;">Location</span>
+
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12323.883659105839!2d114.26655066418805!3d22.336150317272825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404046bc19c7e15%3A0x2bedd58f9cf841be!2sHong%20Kong%20University%20of%20Science%20and%20Technology%20(HKUST)!5e0!3m2!1sen!2shk!4v1690275750515!5m2!1sen!2shk" width="600" height="300" style="border:0; display: block; margin: auto;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<br>
+<br>
+
+<div>
+  <img src="assets/img/home.jpg" style="width:100%"/>
+</div>
+
+<br>
+<hr>
+
+<div style="font-weight:bold">
+
+  <span>Address:</span><br>
+  <span>Theoretical and Computational Chemistry Laboratory</span><br>
+  <span>Room 4207, Academic Building</span><br>
+  <span>The Hong Kong University of Science and Technology</span><br>
+  <span>Clear Water Bay, Kowloon</span><br>
+  <span>Hong Kong</span>
+
+</div>
