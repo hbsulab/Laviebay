@@ -19,24 +19,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
+<h1 style="text-align:center;">
+  <span style="font-size:72px; font-weight:bold;font-family:Charm,cursive;font-style:italic;">Welcome to Laviebay!</span>
+</h1>
+<div style="height:10px;">
+</div>
+<div style="text-align:center;">
+  <span style="font-size:36px;letter-spacing:0.1em;font-family:Charm,cursive;font-style:normal;" >
+    <span style="color:#404040;font-weight:bold;"> GATEWAY to FANTASYLAND </span>   
+  </span><br>
+  <span style="font-size:36px;font-family:Charm,cursive;font-style:normal;">
+    <span style="color:#404040;"> where wisdom flourishes </span>
+  </span>
+</div>
 
-<span style="font-size: 45px; font-weight: bold;font-family:Charm,cursive;font-style:italic;">Welcome to Laviebay!</span>
 <div>
   <img src="assets/img/HKUST_Impression.png" style="width: 100%;" />
-</div>
-<div>
-  <h1 style="font-size:72px; text-align:center;">
-    <span style="font-size:36px;letter-spacing:0.1em;font-family:Charm,cursive;font-style:normal;" >
-      <span style="font-weight:bold;"> GATEWAY to FANTASYLAND </span>   
-    </span>
-  </h1>
-
-  <h1 style="font-size:54px; text-align:center;">
-    <span style="font-size:30px;letter-spacing:0.1em;font-family:Charm,cursive;font-style:normal;">
-      <span style=""> where wisdom flourishes </span>
-    </span>
-  </h1>
-
 </div>
 
 <br>
