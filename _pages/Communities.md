@@ -13,13 +13,10 @@ nav_order: 4
             <a href="../useful-information" style="text-decoration:underline;color:purple;font-size:24px;">Useful information</a>
         </span>
         <span style="height:50px;width:375px;text-align:center;float:right;padding:5px;">
-            <a href="../Forms-and-FAQs" style="text-decoration:underline;color:purple;font-size:24px;">Forms & FAQs</a> 
+            <a href="https://cso.ust.hk/locations/restaurants" style="text-decoration:underline;color:purple;font-size:24px;">Food Catering On Campus</a>
         </span>
     </div>
     <div style="height:10px;"></div>
-    <div style="border-style:solid;border-color:purple;height:50px;width:770px;text-align:center;box-shadow:0 0 5px #000000;">
-        <a href="https://cso.ust.hk/locations/restaurants" style="text-decoration:underline;color:purple;font-size:24px;">Food Catering On Campus</a>
-    </div>
     <div style="height:10px;"></div>
     <div style="border-style:solid;border-color:purple;width:770px;text-align:center;box-shadow:0 0 5px #000000;">
         <strong><span style="color:purple;font-size:28px;">
