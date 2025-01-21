@@ -6,11 +6,12 @@ description: <big>Our computational resources enable us to perform many differen
 nav: false
 horizontal: false
 ---
-<hr>
+
 <div class="row">
     <a href="../Policy/" style="font-size:12px;">Laboratory Computers Using Policies</a>
 <div>
 <hr>
+<br>
 
 <h4 style="text-align: left;"><strong>HKUST HPC3</strong></h4>
 <hr>
@@ -37,6 +38,20 @@ horizontal: false
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPU: two 8-cores Intel Xeon Gold 6244 CPU processors<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAM: 384GB<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPU: 8 x Nvidia GeForce RTX-2080Ti GPU cards, each card has: 4352 CUDA cores, 544 tensor cores<br>
+    </li>
+</div>
+
+<br>
+
+<h4 style="text-align: left;"><strong>HKUST HPC4</strong></h4>
+<hr>
+<div>
+    <li><b>NVIDIA 4090D Server</b>:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPU: 2x Intel® Xeon 6448Y 32C 2.1GHz <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support 5th Gen Intel® Xeon<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAM: 16x 32GB 4800 MHz DDR5 memory <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support up to 16 DIMMs<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPU: 6x NVIDIA GTX4090D GPU cards, each card has: 24GB GPU Memory<br>
     </li>
 </div>
 
