@@ -26,7 +26,7 @@ importance: 1
 </div>
 <div style="text-align:center;">
   <span style="font-size:36px;letter-spacing:0.1em;font-family:Charm,cursive;font-style:normal;" >
-    <span style="color:#404040;font-weight:bold;"> GATEWAY to FANTASYLAND </span>   
+    <span style="color:#404040;font-weight:bold;"> The GATEWAY to FANTASYLAND </span>
   </span><br>
   <span style="font-size:36px;font-family:Charm,cursive;font-style:normal;">
     <span style="color:#404040;"> where wisdom flourishes </span>
