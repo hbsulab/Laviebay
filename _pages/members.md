@@ -33,12 +33,11 @@ importance: 11
         <ul>
             <li><b>PostDocs</b>:  
                 <p>Kaicheng ZHU
+                <br>Muhammad Hasan, 2020
                 </p>
             </li>
             <li><b>Ph.D Student</b>: 
-                <p>Hang(Terry) LYU, 2019
-                <br>Siqi LEI, 2019
-                <br>Muhammad Hasan, 2020
+                <p>Siqi LEI, 2019
                 <br>Ziru (Seven) HUANG, 2021
                 <br>Ruichen LI, 2021
                 <br>Mengqi JIA, 2021
@@ -52,11 +51,13 @@ importance: 11
                 <br>Yuzhou TAO, 2023
                 <br>Yingtong ZHU, 2023
                 <br>Zhiyan (Gerry) ZOU, 2023
+                <br>Ka Pui (Japhert) CHANG, 2024
+                <br>Tianyun JIN, 2024
                 </p>
             </li>
             <li><b>UG Students</b>: 
                 <p>Cheuk Fung (Alvin) LEUNG
-                <br>Ka Pui (Japhert) CHANG
+                <br>
                 <br>Sin Yu (Kelly) CHUI 
                 <br>Tai Ho (Gideon) MA
                 <br>Chun Hey Siu
@@ -85,6 +86,7 @@ importance: 11
 <span style="font-size: 24px; font-weight: bold;">Alumni:</span>
 <ul>
             <p>Long TA (2022), IT Manager (2020-2022)
+            <br>Hang(Terry) LYU, 2019
             <br>Wilwin (2022), Convenor (2020-2022)
             <br>Zhouyi (Joey) HE (2022), Secretary (2020-2022)
             <br>King Wai (Gordon) CHIU (2021)
