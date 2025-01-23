@@ -13,45 +13,52 @@ horizontal: false
 <hr>
 <br>
 
-<h4 style="text-align: left;"><strong>HKUST HPC3</strong></h4>
-<hr>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC2.png" title="HPC2" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC3.png" title="HPC3" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/HPC4.png" title="HPC4" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<br>
-
 <div>
-    <li><b>100 CPU NODES</b>:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPU: two 20-cores Intel Xeon 6230 CPU processors (total 40 cores)<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAM: 192GB<br>
-    </li>
-    <li><b>5 GPU NODES</b>:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPU: two 8-cores Intel Xeon Gold 6244 CPU processors<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAM: 384GB<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPU: 8 x Nvidia GeForce RTX-2080Ti GPU cards, each card has: 4352 CUDA cores, 544 tensor cores<br>
-    </li>
-</div>
-
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/hardwares/HPC2.png" title="HPC2" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/hardwares/HPC3.png" title="HPC3" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/hardwares/HPC4.png" title="HPC4" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 <br>
+</div>
 
 <h4 style="text-align: left;"><strong>HKUST HPC4</strong></h4>
 <hr>
 <div>
     <li><b>NVIDIA 4090D Server</b>:<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CPU: 2x Intel® Xeon 6448Y 32C 2.1GHz <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support 5th Gen Intel® Xeon<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAM: 16x 32GB 4800 MHz DDR5 memory <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support up to 16 DIMMs<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPU: 6x NVIDIA GTX4090D GPU cards, each card has: 24GB GPU Memory<br>
+    <span style="margin-left:25px;">CPU: 2x Intel® Xeon 6448Y 32C 2.1GHz </span><br>
+    <span style="margin-left:65px;">Support 5th Gen Intel® Xeon</span><br>
+    <span style="margin-left:25px;">RAM:16x 32GB 4800 MHz DDR5 memory </span><br>
+    <span style="margin-left:65px;">Support up to 16 DIMMs</span><br>
+    <span style="margin-left:25px;">GPU: 6x NVIDIA GTX4090D GPU cards, each card has: 24GB GPU Memory</span>
+    </li>
+</div>
+
+<br>
+
+<h4 style="text-align: left;"><strong>HKUST HPC3</strong></h4>
+<hr>
+
+<div>
+    <li><b>100 CPU NODES</b>:<br>
+        <span style="margin-left:25px;">CPU: two 20-cores Intel Xeon 6230 CPU processors (total 40 cores)</span><br>   
+        <span style="margin-left:25px;">RAM: 192GB</span>
+    </li>
+    <li><b>5 GPU NODES</b>:<br>
+        <span style="margin-left:25px;">CPU: two 8-cores Intel Xeon Gold 6244 CPU processors</span><br>
+        <span style="margin-left:25px;">RAM: 384GB</span><br>
+        <span style="margin-left:25px;">GPU: 8 x Nvidia GeForce RTX-2080Ti GPU cards, each card has:</span>
+        <ul style="margin-left:40px;">
+            <li>4,352 CUDA cores</li>
+            <li>544 tensor cores</li>
+            <li>68 raytracing acceleration cores</li>
+        </ul>
     </li>
 </div>
 

@@ -24,7 +24,8 @@ importance: 11
         <span style="font-size:27px;margin-left:100px;">Convenor</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Muhammad Hasan</span><br>
         <span style="font-size:27px;margin-left:100px;">Secretary General</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Kaicheng ZHU</span><br>
         <span style="font-size:27px;margin-left:100px;">Secretary</span> <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Shinhong CHEN</span><br>
-        <span style="font-size:27px;margin-left:100px;">IT Manager <span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Ruichen LI</span></span> 
+        <span style="font-size:27px;margin-left:100px;">IT Manager<span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Wentao XU</span></span><br>
+        <span style="font-size:27px;margin-left:100px;">Website Assistant<span style="font-size:27px;font-weight:bold;float:right;margin-right:150px;">Zhiyan (Gerry) ZOU</span></span>
     </div>
 </div>
 <br>
@@ -33,7 +34,7 @@ importance: 11
         <ul>
             <li><b>PostDocs</b>:  
                 <p>Kaicheng ZHU
-                <br>Muhammad Hasan, 2020
+                <br>Muhammad Hasan
                 </p>
             </li>
             <li><b>Ph.D Student</b>: 
