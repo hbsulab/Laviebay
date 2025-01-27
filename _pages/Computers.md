@@ -38,6 +38,8 @@ horizontal: false
     <span style="margin-left:65px;">Support up to 16 DIMMs</span><br>
     <span style="margin-left:25px;">GPU: 6x NVIDIA GTX4090D GPU cards, each card has: 24GB GPU Memory</span>
     </li>
+    <br>
+    <a href="https://itso.hkust.edu.hk/services/academic-teaching-support/high-performance-computing/hpc4">More Information of HPC-4</a>
 </div>
 
 <br>
@@ -48,11 +50,11 @@ horizontal: false
 <div>
     <li><b>100 CPU NODES</b>:<br>
         <span style="margin-left:25px;">CPU: two 20-cores Intel Xeon 6230 CPU processors (total 40 cores)</span><br>   
-        <span style="margin-left:25px;">RAM: 192GB</span>
+        <span style="margin-left:25px;">RAM: 12 x 16 GB DDR4-2933</span>
     </li>
     <li><b>5 GPU NODES</b>:<br>
         <span style="margin-left:25px;">CPU: two 8-cores Intel Xeon Gold 6244 CPU processors</span><br>
-        <span style="margin-left:25px;">RAM: 384GB</span><br>
+        <span style="margin-left:25px;">RAM: 12 x 32GB DDR4-2933</span><br>
         <span style="margin-left:25px;">GPU: 8 x Nvidia GeForce RTX-2080Ti GPU cards, each card has:</span>
         <ul style="margin-left:40px;">
             <li>4,352 CUDA cores</li>
@@ -60,6 +62,7 @@ horizontal: false
             <li>68 raytracing acceleration cores</li>
         </ul>
     </li>
+    <a href="https://itsc.ust.hk/services/academic-teaching-support/high-performance-computing/hpc3-cluster/overview"> More information of HPC-3 </a>
 </div>
 
 <br>
