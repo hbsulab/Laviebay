@@ -85,19 +85,20 @@ horizontal: false
 
 <br>
 
-<h4 style="text-align: left;"><strong>Kobe & Diego</strong></h4>
+<h4 style="text-align: left;"><strong>The Planet: Venus, Mercury, Jupiter, Mars</strong></h4>
 <hr>
 
 <div class="row">
-    <div class="col-lg-9 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/RTX2080.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hardwares/RTX4090.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-lg-3">
-        <strong>CPU</strong>: Itel Xeon Gold 5215, Total 20 Cores<br>
-        <strong>RAM</strong>: 8x16GB DDR4 2933 RDIMECC<br>
-        <strong>GPU</strong>: 2 x NVIDIA RTX2080Ti GDDR6 Video Card-BNQN64<br>
-        <strong>Hard Drive</strong>: 3.5" 7200rpm SATA, 2TB
+    <div class="col-lg-6">
+        <strong>CPU</strong>: 2 x AMD EPYC 7282 16-core Processor<br>
+        <strong>RAM</strong>: Kingston DDR4, Total 128 GB <br>
+        <strong>GPU</strong>: 4 x NVIDIA RTX-4090, Total 24576 MiB<br>
+        <strong>Hard Drive</strong>: ST4000DM004-2CV104, 4TB
     </div>
+    
 </div>
 
 <br>
@@ -119,20 +120,19 @@ horizontal: false
 
 <br>
 
-<h4 style="text-align: left;"><strong>Series Planet: Venus, Mercury, Jupiter, Mars</strong></h4>
+<h4 style="text-align: left;"><strong>Kobe & Diego</strong></h4>
 <hr>
 
 <div class="row">
-    <div class="col-lg-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hardwares/RTX4090.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-9 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hardwares/RTX2080.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-lg-6">
-        <strong>CPU</strong>: 2 x AMD EPYC 7282 16-core Processor<br>
-        <strong>RAM</strong>: Kingston DDR4, Total 128 GB <br>
-        <strong>GPU</strong>: 4 x NVIDIA RTX-4090, Total 24576 MiB<br>
-        <strong>Hard Drive</strong>: ST4000DM004-2CV104, 4TB
+    <div class="col-lg-3">
+        <strong>CPU</strong>: Itel Xeon Gold 5215, Total 20 Cores<br>
+        <strong>RAM</strong>: 8x16GB DDR4 2933 RDIMECC<br>
+        <strong>GPU</strong>: 2 x NVIDIA RTX2080Ti GDDR6 Video Card-BNQN64<br>
+        <strong>Hard Drive</strong>: 3.5" 7200rpm SATA, 2TB
     </div>
-    
 </div>
 
 <br>
